@@ -8,6 +8,12 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=willyees&tex
 alt="willyees's top languages"
 />
 </div>
+My current active projects:
+
+* [Exercises leetcode](https://github.com/Willyees/exercises_leetcode); Once a day an exercise on leetcode to warm up
+* [Watchy](https://www.watchy.club); jointly working with the project manager [Francesco Belvedere](https://github.com/belvederef/). At the moment implementing multiple scrapers
+* [Whatsapp bot](https://github.com/Willyees/whatsappbot-twilio); building a bot to automatically respond to text sent to
+* [Image resize project](https://github.com/Willyees/imageResize); C++ attemp to implement different methods used to resize images. At the moment onyl high level resize acheived
 <!--
 **Willyees/willyees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
